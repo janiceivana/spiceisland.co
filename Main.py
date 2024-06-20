@@ -3,10 +3,10 @@
 import streamlit as st
 
 
-st.header("Welcome to FIT3164_DS05 Webpage!")
+st.header("Welcome to Spice Island Brunch Co. Webpage!")
 
 st.subheader("Introduction")
-st.write("Our Retail Product Pricing Optimization and Analytics project involved leveraging the M5 Kaggle dataset to develop optimal pricing strategies. The optimization was studied by analyzing historical sales data, product attributes, and pricing information. By employing data analytics, price elasticity modeling, and visualization techniques, we seek to determine the optimal pricing point for various products and explore the impact of pricing on sales performance.  ")
+st.write("Welcome to our humble new born cafe located at _. This website is completely built by hand by our owner and founder Janice Ivana. She was inspired to own her cafe/restaurant that is fusion between Asian-Australian brunch ideas, where she studied in Melbourne for 2 years, and had her additional hospitality journey for another 2 years, where she found her passion at, and there she started her own business. Although graduated with Computer Science degree, she enjoy more working in hospitality.")
 
 st.subheader("Getting Started")
 st.write("Start of by uploading your data to get your pricing analysis and strategies!")
