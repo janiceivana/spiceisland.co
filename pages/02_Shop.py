@@ -6,8 +6,8 @@ import altair as alt
 #######################
 # Page configuration
 st.set_page_config(
-    page_title="P5: Price Elasticity Modelling",
-    page_icon="📊",
+    page_title="Shop with Us",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded")
 
