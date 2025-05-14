@@ -10,7 +10,7 @@ st.write("Welcome to our humble new born cafe located at _. This website is comp
 
 st.subheader("Meet our team members!")
 st.markdown("Janice Ivana")
-st.image("jan.jpg")
+# st.image("jan.jpg")
 st.write("aka. Our sassy gen-Z boss with her skillful barista and cooking talent ;)")
 
 
